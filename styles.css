@@ -9,6 +9,10 @@ body {
     font-weight: lighter;
 }
 
+p {
+    display: inline;
+}
+
 .row {
     display: flex;
     align-items: center;
@@ -24,14 +28,6 @@ body {
     text-decoration: none;
 }
 
-/* a:visited {
-    color: #0000EE
-}
-
-a:hover {
-    color: #0000EE
-}
- */
 .image {
     max-width: 650px;
 }
