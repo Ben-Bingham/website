@@ -15,14 +15,23 @@ body {
     gap: 10px;
 }
 
-a {
+.link {
     color: #0000EE
 }
 
-a:visited {
+.home {
+    color: #151515;
+    text-decoration: none;
+}
+
+/* a:visited {
     color: #0000EE
 }
 
 a:hover {
     color: #0000EE
+}
+ */
+.image {
+    max-width: 650px;
 }
