@@ -50,3 +50,8 @@ ul {
     margin-top: 2px;
     margin-bottom: 8px;
 }
+
+.smallText {
+    font-size: 11px;
+    color: #2b2b2b;
+}
