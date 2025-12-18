@@ -41,3 +41,7 @@ p {
 ul {
     margin: 0;
 }
+
+.halfWidthImage {
+    max-width: 325px;
+}
