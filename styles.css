@@ -1,5 +1,5 @@
 body {
-    margin: 40px auto;
+    margin: 20px auto;
     max-width: 650px;
     line-height: 1.6;
     font-size: 18px;
@@ -19,15 +19,25 @@ p {
     gap: 10px;
 }
 
+.opposite-sides {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .link {
     color: #0000EE
 }
 
-.home {
+.stealth-link {
     color: #151515;
     text-decoration: none;
 }
 
 .image {
     max-width: 650px;
+}
+
+ul {
+    margin: 0;
 }
