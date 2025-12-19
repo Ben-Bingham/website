@@ -61,3 +61,7 @@ ul {
 .githubLogo {
     max-width: 50px;
 }
+
+.smallGithubLogo {
+    max-width: 30px;
+}
