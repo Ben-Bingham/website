@@ -35,15 +35,11 @@ p {
 }
 
 .image {
-    max-width: 650px;
+    max-width: 100%;
 }
 
 ul {
     margin: 0;
-}
-
-.halfWidthImage {
-    max-width: 325px;
 }
 
 .lowProfileHeader {
