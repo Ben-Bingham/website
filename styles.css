@@ -57,3 +57,7 @@ ul {
     margin: 0px;
     padding: 0px;
 }
+
+.githubLogo {
+    max-width: 50px;
+}
