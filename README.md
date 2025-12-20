@@ -1,2 +1,2 @@
 ### Personal Website
-My personal website, access [here](benbingham.ca)
+My personal website, access [here](https://benbingham.ca)
